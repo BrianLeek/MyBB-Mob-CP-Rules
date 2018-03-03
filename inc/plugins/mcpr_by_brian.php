@@ -16,7 +16,7 @@ function mcpr_by_brian_info()
 {
 	return array(
 		"name"			=> "ModCP Rules",
-		"description"	=> "Allows you to add general rules box to all moderators visible in ModCP.",
+		"description"	=> "Allows you to add general rules box to all moderators visible in ModCP. Like my plugins? Please donate to brianleek2016@gmail.com on PayPal.",
 		"website"		=> "https://community.mybb.com/user-115119.html",
 		"author"		=> "Brian.",
 		"authorsite"	=> "https://community.mybb.com/user-115119.html",
