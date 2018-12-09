@@ -1,4 +1,4 @@
-# MyBB-Mob-CP-Rules
+# MyBB Mod CP Rules
 Allows you to add a rules box to all moderators control panels.
 
 # Setup
